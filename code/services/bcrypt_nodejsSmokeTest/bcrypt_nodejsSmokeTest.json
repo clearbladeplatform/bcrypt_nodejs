@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,bcrypt_nodejs",
+    "logging_enabled": "false",
+    "name": "bcrypt_nodejsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "bcrypt_nodejsSmokeTest.js"
+}
